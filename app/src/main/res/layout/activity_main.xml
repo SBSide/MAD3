@@ -76,4 +76,32 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="SNACKBAR로 메시지" />
+
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onyouclick"
+        android:text="기본 대화상자" />
+
+    <Button
+        android:id="@+id/button6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onyouclick"
+        android:text="라디오 대화상자" />
+
+    <Button
+        android:id="@+id/button7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onyouclick"
+        android:text="체크박스 대화상자" />
+
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onyouclick"
+        android:text="사용자정의 대화상자" />
 </LinearLayout>

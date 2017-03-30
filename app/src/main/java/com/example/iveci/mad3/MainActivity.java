@@ -49,6 +49,22 @@ public class MainActivity extends AppCompatActivity {
                         }).show();
                 break;
             }
+            case R.id.button5: {
+
+                break;
+            }
+            case R.id.button6: {
+
+                break;
+            }
+            case R.id.button7: {
+
+                break;
+            }
+            case R.id.button8: {
+
+                break;
+            }
         }
     }
 }
